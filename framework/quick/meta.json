@@ -1,0 +1,15 @@
+{
+    "*": {
+        "menu":[
+            {
+                "name": "综述",
+                "link": "#",
+                "header": true
+            } ,
+            {
+                "name": "Comging soon",
+                "link": "#"
+            }          
+        ]
+    }
+}

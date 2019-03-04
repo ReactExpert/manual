@@ -1,0 +1,227 @@
+{
+    "*": {
+        "menu":[
+            {
+                "name": "综述",
+                "link": "#",
+                "header": true
+            },
+            {
+                "name": "Cocos2d-JS介绍",
+                "link": "../js/1-about-cocos2d-js/1-1-a-brief-history/zh.html"
+            },
+            {
+                "name": "获取支持",
+                "link": "../js/1-about-cocos2d-js/1-2-where-to-get-help/zh.html"
+            },
+            {
+                "name": "开发环境以及工作流",
+                "link": "#",
+                "header": true
+            },
+            {
+                "name": "浏览器开发环境介绍",
+                "link": "../js/2-working-environment-and-workflow/2-1-cocos2d-js-lite-workflow/zh.html"
+            },
+            {
+                "name": "原生与跨平台开发环境简介",
+                "link": "../js/2-working-environment-and-workflow/2-2-cross-native-browser-game-with-cocos-console/zh.html"
+            },
+            {
+                "name": "一个简单的Cocos2d-JS游戏",
+                "link": "#",
+                "header": true
+            },
+            {
+                "name": "搭建Cocos2d-JS v3.x 开发环境",
+                "link": "../js/3-jumping-into-cocos2d-js/3-1-installation/zh.html"
+            },
+            {
+                "name": "创建第一个场景",
+                "link": "../js/3-jumping-into-cocos2d-js/3-2-creating-your-first-scene/zh.html"
+            },
+            {
+                "name": "添加内容到场景",
+                "link": "../js/3-jumping-into-cocos2d-js/3-3-adding-content-to-the-scene/zh.html"
+            },
+            {
+                "name": "使用动作让场景活起来",
+                "link": "../js/3-jumping-into-cocos2d-js/3-4-using-actions-to-animate-scenes/zh.html"
+            },
+            {
+                "name": "场景转换",
+                "link": "../js/3-jumping-into-cocos2d-js/3-5-transition-between-scenes/zh.html"
+            },
+            {
+                "name": "使用事件管理器创建用户交互",
+                "link": "../js/3-jumping-into-cocos2d-js/3-6-creating-user-interaction-with-event-manager/zh.html"
+            },
+            {
+                "name": "重要概念",
+                "link": "#",
+                "header": true
+            },
+            {
+                "name": "Cocos2d-JS项目结构介绍",
+                "link": "../js/4-essential-concepts/4-1-cocos2d-js-project/zh.html"
+            },
+            {
+                "name": "cc.game对象和游戏启动流程",
+                "link": "../js/4-essential-concepts/4-2-game-object/zh.html"
+            },
+            {
+                "name": "Cocos坐标系统",
+                "link": "../js/4-essential-concepts/4-3-coordinate-system/zh.html"
+            },
+            {
+                "name": "屏幕适配方案",
+                "link": "../js/4-essential-concepts/4-4-resolution-policies/zh.html"
+            },
+            {
+                "name": "树形场景结构",
+                "link": "../js/4-essential-concepts/4-5-scene-graph/zh.html"
+            },
+            {
+                "name": "游戏导演对象",
+                "link": "../js/4-essential-concepts/4-6-director-of-game/zh.html"
+            },
+            {
+                "name": "使用Cocos Console管理工程",
+                "link": "v2/cocos-console/zh.html"
+            },
+            {
+                "name": "Cocos2d-JS v3.x基础",
+                "link": "#",
+                "header": true
+            },
+            {
+                "name": "游戏启动流程",
+                "link": "v3/cc-game/zh.html"
+            },
+            {
+                "name": "基础数据类型",
+                "link": "v3/basic-data/zh.html"
+            },
+            {
+                "name": "项目配置文件",
+                "link": "v3/project-json/zh.html"
+            },
+            {
+                "name": "Web引擎模块化",
+                "link": "v3/moduleconfig-json/zh.html"
+            },
+            {
+                "name": "系统信息",
+                "link": "v3/cc-sys/zh.html"
+            },
+            {
+                "name": "单例对象",
+                "link": "v3/singleton-objs/zh.html"
+            },
+            {
+                "name": "对象构造与类继承",
+                "link": "v3/inheritance/zh.html"
+            },
+            {
+                "name": "属性风格API",
+                "link": "v3/getter-setter-api/zh.html"
+            },
+            {
+                "name": "统一create函数",
+                "link": "v3/create-api/zh.html"
+            },
+            {
+                "name": "Cocos2d-JS v3.x核心功能",
+                "link": "#",
+                "header": true
+            },
+            {
+                "name": "使用cc.loader加载资源",
+                "link": "v3/cc-loader/zh.html"
+            },
+            {
+                "name": "Action的使用",
+                "link": "v3/cc-actions/zh.html"
+            },
+            {
+                "name": "事件管理器",
+                "link": "v3/eventManager/zh.html"
+            },
+            {
+                "name": "精灵帧缓存",
+                "link": "v3/cc-spriteframecache/zh.html"
+            },
+            {
+                "name": "资源热更新管理器",
+                "link": "v3/assets-manager/zh.html"
+            },
+            {
+                "name": "Cocos2d-JS v3.x的细枝末节",
+                "link": "#",
+                "subheader": true
+            },
+            {
+                "name": "关于FileUtils",
+                "link": "v3/cc-fileutils/zh.html"
+            },
+            {
+                "name": "异步函数工具cc.async",
+                "link": "v3/cc-async/zh.html"
+            },
+            {
+                "name": "资源路径工具cc.path",
+                "link": "v3/cc-path/zh.html"
+            },
+            {
+                "name": "Plist加载器",
+                "link": "v3/cc-saxparser/zh.html"
+            },
+            {
+                "name": "cc.log的改造",
+                "link": "v3/cc-log/zh.html"
+            },
+            {
+                "name": "其他3.x版的API改动",
+                "link": "v3/more-change-from-v2-to-v3/zh.html"
+            },
+            {
+                "name": "性能优化",
+                "link": "#",
+                "header": true
+            },
+            {
+                "name": "对象缓冲池",
+                "link": "v3/cc-pool/zh.html"
+            },
+            {
+                "name": "Bake Layer(预烘培图层)",
+                "link": "v3/bake-layer/zh.html"
+            },
+            {
+                "name": "进阶主题",
+                "link": "#",
+                "header": true
+            },
+            {
+                "name": "JS到JAVA反射",
+                "link": "v3/reflection/zh.html"
+            },
+            {
+                "name": "JS到Objective-C反射",
+                "link": "v3/reflection-oc/zh.html"
+            },
+            {
+                "name": "Eclipse编译Cocos2d-JS项目",
+                "link": "jsb/compilation-in-eclipse/zh.html"
+            },
+            {
+                "name": "在JSB项目中使用extension",
+                "link": "jsb/jsb-extension/zh.html"
+            },
+            {
+                "name": "使用Firefox远程调试工具",
+                "link": "../native/v3/js-remote-debugger/en.html"
+            }    
+        ]
+    }
+}
